@@ -1,1 +1,0 @@
-Changelog maintained at [documentation/docs/05-changelog.md](documentation/docs/05-changelog.md)
